@@ -54,5 +54,5 @@ public class BookMyStayApp {
         single.displayDetails(singleAvailability);
         doubleRoom.displayDetails(doubleAvailability);
         suite.displayDetails(suiteAvailability);
-    }
+   }
 }
